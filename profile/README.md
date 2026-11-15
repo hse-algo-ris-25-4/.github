@@ -17,5 +17,10 @@
 
 Правила веток и pull request в двух репозиториях с заданиями **разные**; подробности — в README каждого из них и в [схеме ветвления](https://github.com/hse-algo-ris-25-4/docs/blob/main/branching-model.md).
 
+Список заданий в этом семестре ведётся на доске Projects организации — ссылка появится здесь, когда будет выдано первое задание.
+
 ## Текущие задания
-Список заданий — в проекте [Алгоритмы и структуры данных 26/27](https://github.com/orgs/hse-algo-ris-25-4/projects/1). Правила веток и pull request в двух репозиториях с заданиями разные; подробности — в README каждого из них и в [схеме ветвления](https://github.com/hse-algo-ris-25-4/docs/blob/main/branching-model.md).
+
+| № | Задание | Ветка с условием |
+|---|---|---|
+| 1 | Числа Фибоначчи | [`main-task-1`](https://github.com/hse-algo-ris-25-4/code-tasks/tree/main-task-1) |
